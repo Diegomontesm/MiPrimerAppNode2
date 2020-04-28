@@ -1,4 +1,4 @@
-# MiPrimerAppNode2
+# MiPrimerAppNode
 Es lo mismo que MiPrimerAppNode pero aquí si vienen ordenadas las carpetas en el repositorio de Git.
 MiPrimerAppNode (1) se encuentra en : https://github.com/Diegomontesm/MiPrimerAppNode
 
